@@ -1,0 +1,6 @@
+{
+  "name": "Two Horizons — Cinematic Cosmic Experience",
+  "description": "An immersive real-time 3D cosmic journey featuring a supermassive black hole with gravitational lensing, accretion disk, and poetic horizons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
